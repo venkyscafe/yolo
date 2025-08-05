@@ -1,3 +1,1 @@
-# yolo
-hello
-test
+# YOLO
